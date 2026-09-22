@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Line added for commit 2");
         System.out.println("Line added for commit 3");
         System.out.println("Line added for commit 4");
+        System.out.println("Line added for commit 5");
     }
 }
